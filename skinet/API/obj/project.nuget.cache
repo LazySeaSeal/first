@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NnhGI4iCoETQe5iSeE5QsvTxTxphkhYjS3DiUoqmwEVVEZzSTjmuZzuWLCi7sUr3ZgyTIWJMUVMsuxL90OyhAQ==",
+  "dgSpecHash": "ZgbBhXodN1PkPk2KClfpkGPZ9uytLyCdiEkBLojJUAIiDoVncZxQ9GXo0dYEwRgbFOvormiJLUcZVNSfe5y+IQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Skymil\\skinet\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Skymil\\first\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Skymil\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Skymil\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",

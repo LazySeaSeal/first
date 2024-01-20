@@ -1729,11 +1729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Skymil\\skinet\\api\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Skymil\\first\\skinet\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Skymil\\skinet\\api\\API.csproj",
+      "projectPath": "C:\\Users\\Skymil\\first\\skinet\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Skymil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Skymil\\skinet\\api\\obj\\",
+      "outputPath": "C:\\Users\\Skymil\\first\\skinet\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
