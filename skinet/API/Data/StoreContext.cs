@@ -11,6 +11,6 @@ namespace API.Data
             
         }
 
-        public  DbSet<Product> Products{ get; set; } // bech 
+        public  DbSet<Product> Products{ get; set; } 
     }
 }
